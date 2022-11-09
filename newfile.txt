@@ -1,0 +1,1 @@
+This is some new text added to the NewFile.txt in NewBranch
